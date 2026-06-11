@@ -1,2 +1,2 @@
-# hello-world
+# lab config test
 Initial test repo
